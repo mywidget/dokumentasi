@@ -511,7 +511,7 @@ $db[&#x27;default&#x27;] = array(
 );
 									</code></pre>
 								</div>
-								<li>Buka browser kemudian ketik <a href="" target="_blank">http://domainanda.com</a></li>
+								<li>Buka browser kemudian ketik <a href="" target="_blank">http://localhost/pos_app</a></li>
 								<div class=" row mb-3">
 									<div class="col-12 col-md-3 mb-3">
 										<a class="install" href="assets/images/install.png">

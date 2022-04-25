@@ -1,8 +1,8 @@
 "use strict";
 
 $('code.hljs').each(function(i, block) {
-	hljs.lineNumbersBlock(block);
-});
+					hljs.lineNumbersBlock(block);
+				});
 /* ====== Define JS Constants ====== */
 const sidebarToggler = document.getElementById('docs-sidebar-toggler');
 const sidebar = document.getElementById('docs-sidebar');
@@ -220,7 +220,7 @@ var lightboxDescription = GLightbox({
 	selector: '.pelanggan',
 	loop: true,
 });
-
+ 
 var width = screen.width;
 // console.log(width)
 /* ====== Pencarian ======= */
